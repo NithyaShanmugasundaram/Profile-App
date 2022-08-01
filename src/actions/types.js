@@ -1,0 +1,6 @@
+export const GET_COUNTRIES = 'GET_COUNTRIES';
+export const SAVE_PROFILES = 'SAVE_PROFILES';
+export const UPDATE_PROFILES = 'UPDATE_PROFILES';
+export const SET_ALERT = 'SET_ALERT';
+export const REMOVE_ALERT = 'REMOVE_ALERT';
+
